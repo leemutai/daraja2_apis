@@ -26,7 +26,31 @@ SECRET_KEY = 'django-insecure-7649g*t1#la#6j2o$ub#(*hbfaloy__!$t5n%9*55@gaa16(o&
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'verbose': {
+            'format': '{levelname} {asctime}  {process:d}  {message}',
+            'style': '{',
+        },
+    },
+    'handlers': {
+        'newfile': {
+            'level': 'DEBUG',
+            'class': 'logging.FileHandler',
+            'filename': './loggers.log',
+            'formatter': 'verbose'
+        },
+    },
+    'loggers': {
+        '': {
+            'level': 'DEBUG',
+            'handlers': ['newfile'],
+            'propagate': True,
+        },
+    },
+}
 
 # Application definition
 
@@ -123,3 +147,13 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+MPESA_API = {
+    "BIZ_SHORT_CODE": "174379",
+    "CALLBACK_URL": "xxxx",
+    "CONSUMER_KEY": "f6oXr5Uujk9IUvwnOmyiHKewAjdc6Q18",
+    "CONSUMER_SECRET": "ThE5BSURaNQT6WDk",
+    "CREDENTIALS_URL": "xxxx",
+    "PAYMENT_URL": "xxxx",
+    "PASS_KEY": "xxxxxx"
+}
