@@ -1,0 +1,26 @@
+INFO 2023-11-21 15:16:12,666  4060  Watching for file changes with StatReloader
+INFO 2023-11-21 15:16:12,666  9900  Watching for file changes with StatReloader
+INFO 2023-11-21 15:18:22,037  4060  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 15:18:22,079  9900  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 15:18:24,116  8300  Watching for file changes with StatReloader
+INFO 2023-11-21 15:18:24,174  15064  Watching for file changes with StatReloader
+INFO 2023-11-21 15:19:53,257  8300  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 15:19:53,287  15064  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 15:19:55,589  1692  Watching for file changes with StatReloader
+INFO 2023-11-21 15:20:03,501  12500  Watching for file changes with StatReloader
+INFO 2023-11-21 15:21:17,223  12500  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 15:21:18,343  5248  Watching for file changes with StatReloader
+INFO 2023-11-21 15:21:37,658  5248  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 15:21:40,123  10036  Watching for file changes with StatReloader
+INFO 2023-11-21 15:21:58,257  10036  254797001959 1
+DEBUG 2023-11-21 15:21:58,257  10036  254797001959 1
+ERROR 2023-11-21 15:21:58,257  10036  254797001959 1
+WARNING 2023-11-21 15:21:58,258  10036  254797001959 1
+INFO 2023-11-21 15:23:30,867  10036  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 15:23:32,598  8840  Watching for file changes with StatReloader
+INFO 2023-11-21 15:37:11,072  8840  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 15:37:17,236  3416  Watching for file changes with StatReloader
+INFO 2023-11-21 15:37:59,153  3416  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-21 15:38:00,293  12252  Watching for file changes with StatReloader
+INFO 2023-11-21 15:38:44,692  12252  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-21 15:38:46,022  7000  Watching for file changes with StatReloader
