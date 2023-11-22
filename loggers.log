@@ -69,3 +69,649 @@ INFO 2023-11-21 16:12:11,273  9872  C:\Users\Lee\PycharmProjects\daraja1_apis\ma
 INFO 2023-11-21 16:12:11,273  18356  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
 INFO 2023-11-21 16:12:13,779  6340  Watching for file changes with StatReloader
 INFO 2023-11-21 16:12:13,830  15992  Watching for file changes with StatReloader
+INFO 2023-11-21 16:16:36,430  6340  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:16:37,463  15992  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:16:39,263  15524  Watching for file changes with StatReloader
+INFO 2023-11-21 16:16:39,600  6040  Watching for file changes with StatReloader
+INFO 2023-11-21 16:19:11,503  6040  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:19:11,528  15524  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:19:13,094  16136  Watching for file changes with StatReloader
+INFO 2023-11-21 16:19:13,110  17108  Watching for file changes with StatReloader
+INFO 2023-11-21 16:20:40,699  5624  Watching for file changes with StatReloader
+INFO 2023-11-21 16:21:06,748  16136  254797001959 1
+DEBUG 2023-11-21 16:21:06,757  16136  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 16:21:07,740  16136  https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+DEBUG 2023-11-21 16:21:07,771  16136  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 16:21:08,602  16136  https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+DEBUG 2023-11-21 16:21:08,603  16136  {'MerchantRequestID': '31765-21205983-2', 'CheckoutRequestID': 'ws_CO_21112023162415286797001959', 'ResponseCode': '0', 'ResponseDescription': 'Success. Request accepted for processing', 'CustomerMessage': 'Success. Request accepted for processing'}
+INFO 2023-11-21 16:34:05,672  17108  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:34:05,703  16136  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:34:05,756  5624  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:34:08,501  16300  Watching for file changes with StatReloader
+INFO 2023-11-21 16:34:08,644  7552  Watching for file changes with StatReloader
+INFO 2023-11-21 16:34:08,738  16768  Watching for file changes with StatReloader
+INFO 2023-11-21 16:34:30,556  7552  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:34:30,879  16768  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:34:31,049  16300  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:34:31,938  11992  Watching for file changes with StatReloader
+INFO 2023-11-21 16:34:32,607  19112  Watching for file changes with StatReloader
+INFO 2023-11-21 16:34:33,124  7848  Watching for file changes with StatReloader
+INFO 2023-11-21 16:34:46,299  11992  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:34:46,706  19112  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:34:46,898  7848  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:34:47,553  17752  Watching for file changes with StatReloader
+INFO 2023-11-21 16:34:47,956  14396  Watching for file changes with StatReloader
+INFO 2023-11-21 16:34:48,120  18052  Watching for file changes with StatReloader
+INFO 2023-11-21 16:35:00,494  18052  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:35:01,104  17752  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:35:01,341  14396  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:35:02,721  10796  Watching for file changes with StatReloader
+INFO 2023-11-21 16:35:03,340  17692  Watching for file changes with StatReloader
+INFO 2023-11-21 16:35:03,597  4404  Watching for file changes with StatReloader
+INFO 2023-11-21 16:35:27,929  4404  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:35:28,247  10796  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:35:28,584  17692  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:35:29,672  5584  Watching for file changes with StatReloader
+INFO 2023-11-21 16:35:29,910  8188  Watching for file changes with StatReloader
+INFO 2023-11-21 16:35:30,130  12788  Watching for file changes with StatReloader
+INFO 2023-11-21 16:37:38,427  12788  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:37:38,709  8188  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:37:38,792  5584  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:37:41,188  17372  Watching for file changes with StatReloader
+INFO 2023-11-21 16:37:41,232  17680  Watching for file changes with StatReloader
+INFO 2023-11-21 16:37:41,267  12796  Watching for file changes with StatReloader
+INFO 2023-11-21 16:42:09,442  17680  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:42:09,469  17372  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:42:09,480  12796  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:42:11,208  17056  Watching for file changes with StatReloader
+INFO 2023-11-21 16:42:11,262  6444  Watching for file changes with StatReloader
+INFO 2023-11-21 16:42:11,361  2068  Watching for file changes with StatReloader
+INFO 2023-11-21 16:44:34,394  2068  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:44:34,452  17056  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:44:34,871  6444  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:44:36,209  5716  Watching for file changes with StatReloader
+INFO 2023-11-21 16:44:36,257  2324  Watching for file changes with StatReloader
+INFO 2023-11-21 16:44:36,586  19364  Watching for file changes with StatReloader
+INFO 2023-11-21 16:45:43,886  19364  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:45:43,892  5716  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:45:43,918  2324  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:45:45,372  9704  Watching for file changes with StatReloader
+INFO 2023-11-21 16:45:45,377  5256  Watching for file changes with StatReloader
+INFO 2023-11-21 16:45:45,427  9224  Watching for file changes with StatReloader
+INFO 2023-11-21 16:49:05,511  9704  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:49:05,527  5256  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:49:05,559  9224  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 16:49:08,428  18728  Watching for file changes with StatReloader
+INFO 2023-11-21 16:49:08,601  16500  Watching for file changes with StatReloader
+INFO 2023-11-21 16:49:08,694  7968  Watching for file changes with StatReloader
+INFO 2023-11-21 16:55:40,237  16500  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-21 16:55:40,269  18728  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-21 16:55:40,322  7968  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-21 16:55:43,702  2924  Watching for file changes with StatReloader
+INFO 2023-11-21 16:55:43,933  6916  Watching for file changes with StatReloader
+INFO 2023-11-21 16:55:43,991  11228  Watching for file changes with StatReloader
+INFO 2023-11-21 16:57:10,181  2924  254797001959 1
+DEBUG 2023-11-21 16:57:10,183  2924  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 16:57:11,226  2924  https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+DEBUG 2023-11-21 16:57:11,268  2924  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 16:57:12,405  2924  https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+DEBUG 2023-11-21 16:57:12,408  2924  {'MerchantRequestID': '84138-46052016-1', 'CheckoutRequestID': 'ws_CO_21112023170019205797001959', 'ResponseCode': '0', 'ResponseDescription': 'Success. Request accepted for processing', 'CustomerMessage': 'Success. Request accepted for processing'}
+INFO 2023-11-21 16:57:12,408  2924  84138-46052016-1 ws_CO_21112023170019205797001959
+INFO 2023-11-21 16:57:50,342  2924  254797001959 1
+DEBUG 2023-11-21 16:57:50,343  2924  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 16:57:51,555  2924  https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+DEBUG 2023-11-21 16:57:51,571  2924  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 16:57:53,193  2924  https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+DEBUG 2023-11-21 16:57:53,200  2924  {'MerchantRequestID': '12625-15696499-1', 'CheckoutRequestID': 'ws_CO_21112023170059621797001959', 'ResponseCode': '0', 'ResponseDescription': 'Success. Request accepted for processing', 'CustomerMessage': 'Success. Request accepted for processing'}
+INFO 2023-11-21 16:57:53,201  2924  12625-15696499-1 ws_CO_21112023170059621797001959
+INFO 2023-11-21 16:58:44,637  2588  Watching for file changes with StatReloader
+INFO 2023-11-21 16:58:52,185  2924  254797001959 1
+DEBUG 2023-11-21 16:58:52,190  2924  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 16:58:53,298  2924  https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+DEBUG 2023-11-21 16:58:53,315  2924  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 16:58:54,414  2924  https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+DEBUG 2023-11-21 16:58:54,416  2924  {'MerchantRequestID': '8665-15261905-1', 'CheckoutRequestID': 'ws_CO_21112023170201207797001959', 'ResponseCode': '0', 'ResponseDescription': 'Success. Request accepted for processing', 'CustomerMessage': 'Success. Request accepted for processing'}
+INFO 2023-11-21 16:58:54,417  2924  8665-15261905-1 ws_CO_21112023170201207797001959
+WARNING 2023-11-21 17:01:34,105  2924  Not Found: /favicon.ico
+INFO 2023-11-21 17:07:36,771  2924  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:07:36,784  2588  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:07:36,860  6916  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:07:36,899  11228  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:07:38,683  2148  Watching for file changes with StatReloader
+INFO 2023-11-21 17:07:38,767  6908  Watching for file changes with StatReloader
+INFO 2023-11-21 17:07:38,790  15256  Watching for file changes with StatReloader
+INFO 2023-11-21 17:07:38,835  17164  Watching for file changes with StatReloader
+INFO 2023-11-21 17:08:35,847  6908  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:08:35,862  15256  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:08:35,890  2148  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:08:35,897  17164  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:08:37,891  2604  Watching for file changes with StatReloader
+INFO 2023-11-21 17:08:37,982  8356  Watching for file changes with StatReloader
+INFO 2023-11-21 17:08:38,092  12768  Watching for file changes with StatReloader
+INFO 2023-11-21 17:08:38,092  8652  Watching for file changes with StatReloader
+INFO 2023-11-21 17:09:22,907  2604  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:09:22,918  12768  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:09:22,956  8652  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:09:22,972  8356  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:09:26,034  8976  Watching for file changes with StatReloader
+INFO 2023-11-21 17:09:26,035  4516  Watching for file changes with StatReloader
+INFO 2023-11-21 17:09:26,062  18560  Watching for file changes with StatReloader
+INFO 2023-11-21 17:09:26,073  15992  Watching for file changes with StatReloader
+INFO 2023-11-21 17:10:20,652  8976  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:10:20,653  15992  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:10:20,750  18560  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:10:20,760  4516  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:10:22,989  5012  Watching for file changes with StatReloader
+INFO 2023-11-21 17:10:23,027  14960  Watching for file changes with StatReloader
+INFO 2023-11-21 17:10:23,113  18716  Watching for file changes with StatReloader
+INFO 2023-11-21 17:10:23,162  15952  Watching for file changes with StatReloader
+INFO 2023-11-21 17:10:57,133  15952  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:10:57,179  18716  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:10:57,185  14960  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:10:57,194  5012  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:10:58,962  17276  Watching for file changes with StatReloader
+INFO 2023-11-21 17:10:59,019  1984  Watching for file changes with StatReloader
+INFO 2023-11-21 17:10:59,072  10136  Watching for file changes with StatReloader
+INFO 2023-11-21 17:10:59,127  10000  Watching for file changes with StatReloader
+INFO 2023-11-21 17:12:52,000  10136  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:12:52,039  17276  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:12:52,047  1984  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:12:52,084  10000  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:12:53,855  16732  Watching for file changes with StatReloader
+INFO 2023-11-21 17:12:53,891  4092  Watching for file changes with StatReloader
+INFO 2023-11-21 17:12:53,921  15264  Watching for file changes with StatReloader
+INFO 2023-11-21 17:12:53,948  3860  Watching for file changes with StatReloader
+INFO 2023-11-21 17:14:06,455  3860  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:14:06,613  15264  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:14:06,645  4092  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:14:06,646  16732  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:14:14,358  968  Watching for file changes with StatReloader
+INFO 2023-11-21 17:14:15,529  15460  Watching for file changes with StatReloader
+INFO 2023-11-21 17:14:15,582  18232  Watching for file changes with StatReloader
+INFO 2023-11-21 17:14:15,612  11728  Watching for file changes with StatReloader
+ERROR 2023-11-21 17:14:23,670  11728  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py", line 49, in initiate_payment
+    elif "errorCode" in json_resp:
+                        ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'json_resp' where it is not associated with a value
+INFO 2023-11-21 17:16:40,604  11728  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:16:40,609  15460  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:16:40,636  968  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:16:40,659  18232  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-21 17:16:42,528  16516  Watching for file changes with StatReloader
+INFO 2023-11-21 17:16:42,528  12988  Watching for file changes with StatReloader
+INFO 2023-11-21 17:16:42,528  15812  Watching for file changes with StatReloader
+INFO 2023-11-21 17:16:50,742  15436  Watching for file changes with StatReloader
+ERROR 2023-11-21 17:16:52,634  12988  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+ERROR 2023-11-21 17:19:36,186  12988  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-21 17:23:27,868  12988  254797001959 1
+DEBUG 2023-11-21 17:23:27,871  12988  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 17:23:29,042  12988  https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+DEBUG 2023-11-21 17:23:29,073  12988  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 17:23:30,164  12988  https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+DEBUG 2023-11-21 17:23:30,166  12988  {'MerchantRequestID': '31780-21343103-1', 'CheckoutRequestID': 'ws_CO_21112023172528831797001959', 'ResponseCode': '0', 'ResponseDescription': 'Success. Request accepted for processing', 'CustomerMessage': 'Success. Request accepted for processing'}
+INFO 2023-11-21 17:23:30,166  12988  31780-21343103-1 ws_CO_21112023172528831797001959
+INFO 2023-11-21 17:23:37,876  12988  254797001959 1
+DEBUG 2023-11-21 17:23:37,883  12988  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 17:23:39,414  12988  https://sandbox.safaricom.co.ke:443 "GET /oauth/v1/generate?grant_type=client_credentials HTTP/1.1" 200 None
+DEBUG 2023-11-21 17:23:39,423  12988  Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+DEBUG 2023-11-21 17:23:40,098  12988  https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 500 None
+DEBUG 2023-11-21 17:23:40,100  12988  {'requestId': '11034-21341101-2', 'errorCode': '500.003.02', 'errorMessage': 'System is busy. Please try again in few minutes.'}
+ERROR 2023-11-21 17:23:40,100  12988  Error with error code 500.003.02
+INFO 2023-11-21 17:23:58,032  17980  Watching for file changes with StatReloader
+ERROR 2023-11-21 17:24:00,483  12988  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-22 01:53:47,228  10868  Watching for file changes with StatReloader
+ERROR 2023-11-22 01:53:50,063  10868  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-22 01:58:31,315  10868  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 01:58:32,681  12912  Watching for file changes with StatReloader
+ERROR 2023-11-22 01:59:04,398  12912  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-22 01:59:05,183  12912  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 01:59:06,357  19100  Watching for file changes with StatReloader
+ERROR 2023-11-22 02:00:03,751  19100  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-22 02:00:04,720  19100  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:00:05,889  9248  Watching for file changes with StatReloader
+INFO 2023-11-22 02:00:15,618  16792  Watching for file changes with StatReloader
+ERROR 2023-11-22 02:00:17,741  9248  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-22 02:01:23,715  16792  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:01:23,957  9248  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:01:25,233  6960  Watching for file changes with StatReloader
+INFO 2023-11-22 02:01:26,131  880  Watching for file changes with StatReloader
+INFO 2023-11-22 02:01:30,095  10360  Watching for file changes with StatReloader
+INFO 2023-11-22 02:02:57,347  10360  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:02:57,377  6960  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:02:57,383  880  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:02:58,995  2248  Watching for file changes with StatReloader
+INFO 2023-11-22 02:02:59,031  4912  Watching for file changes with StatReloader
+INFO 2023-11-22 02:02:59,066  12032  Watching for file changes with StatReloader
+INFO 2023-11-22 02:03:01,606  3092  Watching for file changes with StatReloader
+ERROR 2023-11-22 02:03:05,034  2248  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-22 02:08:51,848  12032  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:08:51,859  4912  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:08:51,866  3092  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:08:51,883  2248  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:08:53,708  4436  Watching for file changes with StatReloader
+INFO 2023-11-22 02:08:53,744  10632  Watching for file changes with StatReloader
+INFO 2023-11-22 02:08:53,780  10940  Watching for file changes with StatReloader
+INFO 2023-11-22 02:08:53,812  12368  Watching for file changes with StatReloader
+INFO 2023-11-22 02:09:00,143  9944  Watching for file changes with StatReloader
+ERROR 2023-11-22 02:09:02,639  4436  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-22 02:09:23,163  10940  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:09:23,166  9944  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:09:23,247  12368  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:09:23,271  10632  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+ERROR 2023-11-22 02:09:23,390  4436  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-22 02:09:23,532  4436  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:09:25,613  8544  Watching for file changes with StatReloader
+INFO 2023-11-22 02:09:25,725  8564  Watching for file changes with StatReloader
+INFO 2023-11-22 02:09:25,739  7744  Watching for file changes with StatReloader
+INFO 2023-11-22 02:09:25,780  17884  Watching for file changes with StatReloader
+INFO 2023-11-22 02:09:25,884  14924  Watching for file changes with StatReloader
+INFO 2023-11-22 02:09:38,151  19240  Watching for file changes with StatReloader
+ERROR 2023-11-22 02:09:39,966  8544  Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view main.views.initiate_payment didn't return an HttpResponse object. It returned None instead.
+INFO 2023-11-22 02:24:42,717  8544  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:24:42,724  14924  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:24:42,901  19240  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:24:42,920  7744  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:24:42,917  8564  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:24:42,922  17884  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:24:45,024  13900  Watching for file changes with StatReloader
+INFO 2023-11-22 02:24:45,326  16728  Watching for file changes with StatReloader
+INFO 2023-11-22 02:24:45,443  10244  Watching for file changes with StatReloader
+INFO 2023-11-22 02:24:45,592  10568  Watching for file changes with StatReloader
+INFO 2023-11-22 02:24:46,039  3000  Watching for file changes with StatReloader
+INFO 2023-11-22 02:24:46,049  7404  Watching for file changes with StatReloader
+INFO 2023-11-22 02:25:23,271  10568  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:25:23,276  3000  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:25:23,277  13900  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:25:23,280  7404  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:25:23,666  16728  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:25:23,726  10244  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 02:25:25,759  11980  Watching for file changes with StatReloader
+INFO 2023-11-22 02:25:25,880  2540  Watching for file changes with StatReloader
+INFO 2023-11-22 02:25:25,905  8932  Watching for file changes with StatReloader
+INFO 2023-11-22 02:25:25,906  9944  Watching for file changes with StatReloader
+INFO 2023-11-22 02:25:26,100  15616  Watching for file changes with StatReloader
+INFO 2023-11-22 02:25:26,360  14172  Watching for file changes with StatReloader
+INFO 2023-11-22 02:25:33,289  16916  Watching for file changes with StatReloader
+WARNING 2023-11-22 02:25:36,398  11980  Method Not Allowed: /
+WARNING 2023-11-22 02:42:29,727  11980  Method Not Allowed: /
+WARNING 2023-11-22 02:42:35,146  11980  Method Not Allowed: /
+WARNING 2023-11-22 02:53:33,556  11980  Method Not Allowed: /
+WARNING 2023-11-22 02:53:34,371  11980  Not Found: /favicon.ico
+INFO 2023-11-22 03:02:34,754  9944  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:02:34,759  8932  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:02:34,776  15616  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:02:34,791  2540  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:02:34,808  14172  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:02:35,307  16916  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:02:35,307  11980  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:02:38,015  12848  Watching for file changes with StatReloader
+INFO 2023-11-22 03:02:38,720  6928  Watching for file changes with StatReloader
+INFO 2023-11-22 03:02:38,811  15376  Watching for file changes with StatReloader
+INFO 2023-11-22 03:02:38,992  18028  Watching for file changes with StatReloader
+INFO 2023-11-22 03:02:39,077  16952  Watching for file changes with StatReloader
+INFO 2023-11-22 03:02:39,150  13996  Watching for file changes with StatReloader
+INFO 2023-11-22 03:02:39,487  13568  Watching for file changes with StatReloader
+WARNING 2023-11-22 03:02:52,207  12848  Method Not Allowed: /
+ERROR 2023-11-22 03:02:57,958  12848  Invalid HTTP_HOST header: 'c207-196-202-173-104.ngrok-free.app'. You may need to add 'c207-196-202-173-104.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lee\PycharmProjects\daraja1_apis\venv\Lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'c207-196-202-173-104.ngrok-free.app'. You may need to add 'c207-196-202-173-104.ngrok-free.app' to ALLOWED_HOSTS.
+WARNING 2023-11-22 03:02:58,340  12848  Bad Request: /
+INFO 2023-11-22 03:04:13,597  13568  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:04:13,614  16952  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:04:13,646  18028  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:04:13,711  13996  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:04:13,834  15376  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:04:13,867  12848  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:04:13,850  6928  C:\Users\Lee\PycharmProjects\daraja1_apis\daraja1_apis\settings.py changed, reloading.
+INFO 2023-11-22 03:04:16,777  18072  Watching for file changes with StatReloader
+INFO 2023-11-22 03:04:16,781  6196  Watching for file changes with StatReloader
+INFO 2023-11-22 03:04:16,790  1944  Watching for file changes with StatReloader
+INFO 2023-11-22 03:04:16,901  16084  Watching for file changes with StatReloader
+INFO 2023-11-22 03:04:16,930  11756  Watching for file changes with StatReloader
+INFO 2023-11-22 03:04:16,942  16448  Watching for file changes with StatReloader
+INFO 2023-11-22 03:04:17,131  2452  Watching for file changes with StatReloader
+WARNING 2023-11-22 03:04:21,622  6196  Method Not Allowed: /
+WARNING 2023-11-22 03:04:27,589  6196  Method Not Allowed: /
+WARNING 2023-11-22 03:04:31,073  6196  Method Not Allowed: /
+WARNING 2023-11-22 03:04:34,722  6196  Method Not Allowed: /
+INFO 2023-11-22 03:06:15,261  1944  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:15,278  16084  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:15,306  16448  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:15,331  18072  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:15,339  11756  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:15,342  2452  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:15,365  6196  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:18,714  10524  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:18,833  17964  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:18,864  8896  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:19,014  18240  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:19,199  12908  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:19,770  15092  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:19,794  10556  Watching for file changes with StatReloader
+WARNING 2023-11-22 03:06:21,577  10524  Method Not Allowed: /
+INFO 2023-11-22 03:06:34,894  15092  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:34,911  8896  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:34,929  12908  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:34,933  10524  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:34,958  10556  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:35,244  17964  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:35,386  18240  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:06:37,975  2260  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:38,001  12848  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:38,100  13996  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:38,131  16688  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:38,159  5752  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:38,482  19240  Watching for file changes with StatReloader
+INFO 2023-11-22 03:06:38,546  9932  Watching for file changes with StatReloader
+WARNING 2023-11-22 03:06:40,003  2260  Method Not Allowed: /
+INFO 2023-11-22 03:33:47,841  16688  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:33:47,844  9932  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:33:47,846  13996  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:33:47,862  12848  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:33:47,905  2260  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:33:47,920  19240  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:33:47,988  5752  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 03:33:50,147  6444  Watching for file changes with StatReloader
+INFO 2023-11-22 03:33:50,573  6616  Watching for file changes with StatReloader
+INFO 2023-11-22 03:33:50,622  18636  Watching for file changes with StatReloader
+INFO 2023-11-22 03:33:50,731  5492  Watching for file changes with StatReloader
+INFO 2023-11-22 03:33:50,844  15104  Watching for file changes with StatReloader
+INFO 2023-11-22 03:33:50,846  18584  Watching for file changes with StatReloader
+INFO 2023-11-22 03:33:50,894  9260  Watching for file changes with StatReloader
+INFO 2023-11-22 06:11:09,947  9260  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:11:10,288  6444  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:11:10,313  18584  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:11:10,364  6616  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:11:10,453  18636  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:11:10,457  15104  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:11:10,784  5492  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:11:13,228  10420  Watching for file changes with StatReloader
+INFO 2023-11-22 06:11:13,501  8080  Watching for file changes with StatReloader
+INFO 2023-11-22 06:11:13,603  10440  Watching for file changes with StatReloader
+INFO 2023-11-22 06:11:13,619  15616  Watching for file changes with StatReloader
+INFO 2023-11-22 06:11:13,731  2076  Watching for file changes with StatReloader
+INFO 2023-11-22 06:11:13,755  12660  Watching for file changes with StatReloader
+INFO 2023-11-22 06:11:13,855  14988  Watching for file changes with StatReloader
+INFO 2023-11-22 06:11:44,629  11948  Watching for file changes with StatReloader
+WARNING 2023-11-22 06:11:47,723  10420  Method Not Allowed: /
+INFO 2023-11-22 06:13:56,542  2076  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:13:56,573  14988  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:13:56,572  12660  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:13:59,880  8448  Watching for file changes with StatReloader
+INFO 2023-11-22 06:13:59,967  2588  Watching for file changes with StatReloader
+INFO 2023-11-22 06:13:59,990  5332  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:00,009  13876  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:00,039  19036  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:00,054  9072  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:00,089  14872  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:00,120  9524  Watching for file changes with StatReloader
+WARNING 2023-11-22 06:14:08,343  5332  Method Not Allowed: /
+INFO 2023-11-22 06:14:28,600  19036  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:14:28,655  14872  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:14:28,655  9524  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:14:28,684  8448  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:14:28,708  2588  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:14:28,701  5332  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+
+INFO 2023-11-22 06:14:35,940  992  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:36,352  19496  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:36,369  7664  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:36,937  9016  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:36,940  14916  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:36,965  19712  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:37,596  19492  Watching for file changes with StatReloader
+INFO 2023-11-22 06:14:37,692  16060  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:11,987  16060  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:12,293  992  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:12,319  19496  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:12,328  7664  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:12,366  14916  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:12,719  9016  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:12,720  19712  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:12,729  19492  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:15,133  19532  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:15,364  13328  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:15,530  12040  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:15,557  12640  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:15,620  20404  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:15,723  7400  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:15,953  12960  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:16,018  19620  Watching for file changes with StatReloader
+WARNING 2023-11-22 06:15:18,300  19532  Method Not Allowed: /
+INFO 2023-11-22 06:15:29,914  13328  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:29,927  12640  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:30,045  12040  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:30,517  20404  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:30,566  19532  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:30,566  19620  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:30,585  12960  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:30,609  7400  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:15:33,029  17624  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:33,117  19564  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:33,218  7392  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:33,355  4296  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:33,399  14988  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:34,363  18528  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:34,980  8164  Watching for file changes with StatReloader
+INFO 2023-11-22 06:15:35,002  15616  Watching for file changes with StatReloader
+WARNING 2023-11-22 06:15:35,868  17624  Method Not Allowed: /
+WARNING 2023-11-22 06:15:40,264  17624  Method Not Allowed: /
+INFO 2023-11-22 06:16:07,090  8164  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:07,473  14988  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:07,488  15616  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:07,490  7392  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:07,532  4296  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:07,972  17624  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:08,078  19564  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:08,100  18528  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:10,728  20412  Watching for file changes with StatReloader
+INFO 2023-11-22 06:16:11,024  19828  Watching for file changes with StatReloader
+INFO 2023-11-22 06:16:11,096  15484  Watching for file changes with StatReloader
+INFO 2023-11-22 06:16:11,110  12312  Watching for file changes with StatReloader
+INFO 2023-11-22 06:16:11,397  9224  Watching for file changes with StatReloader
+INFO 2023-11-22 06:16:11,469  20260  Watching for file changes with StatReloader
+INFO 2023-11-22 06:16:12,018  17308  Watching for file changes with StatReloader
+INFO 2023-11-22 06:16:12,302  18276  Watching for file changes with StatReloader
+INFO 2023-11-22 06:16:56,952  19828  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:56,959  12312  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:56,967  18276  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:57,306  9224  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:57,322  15484  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:57,339  20260  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:57,437  17308  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:16:57,488  20412  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:17:01,069  19400  Watching for file changes with StatReloader
+INFO 2023-11-22 06:17:01,255  18296  Watching for file changes with StatReloader
+INFO 2023-11-22 06:17:01,284  20356  Watching for file changes with StatReloader
+INFO 2023-11-22 06:17:01,319  20040  Watching for file changes with StatReloader
+INFO 2023-11-22 06:17:01,362  10652  Watching for file changes with StatReloader
+INFO 2023-11-22 06:17:01,448  20268  Watching for file changes with StatReloader
+INFO 2023-11-22 06:17:01,458  19732  Watching for file changes with StatReloader
+INFO 2023-11-22 06:17:01,555  19740  Watching for file changes with StatReloader
+WARNING 2023-11-22 06:17:07,836  19400  Method Not Allowed (GET): /
+WARNING 2023-11-22 06:17:13,398  19400  Method Not Allowed (GET): /
+WARNING 2023-11-22 06:17:14,899  19400  Method Not Allowed (GET): /
+WARNING 2023-11-22 06:17:15,666  19400  Method Not Allowed (GET): /
+WARNING 2023-11-22 06:17:38,786  19400  Method Not Allowed (GET): /
+INFO 2023-11-22 06:19:15,984  20040  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:16,032  19732  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:16,049  19740  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:16,064  20356  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:16,334  19400  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:16,345  18296  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:16,362  10652  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:16,382  20268  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:18,495  19508  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:19,426  15628  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:19,484  8228  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:19,550  17472  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:19,643  17484  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:19,703  4196  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:20,038  17876  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:20,586  8808  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:36,300  17484  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:36,308  8228  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:36,306  19508  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:36,325  4196  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:36,325  17472  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:36,719  17876  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:36,742  8808  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:36,789  15628  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:19:39,492  5252  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:39,585  5704  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:39,743  8700  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:39,789  3832  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:39,889  11816  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:39,893  16924  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:40,143  16648  Watching for file changes with StatReloader
+INFO 2023-11-22 06:19:40,356  18620  Watching for file changes with StatReloader
+INFO 2023-11-22 06:20:27,456  16648  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:20:27,549  3832  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:20:27,601  5252  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:20:27,588  5704  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:20:27,621  16924  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:20:27,621  8700  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:20:27,629  11816  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:20:27,660  18620  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:20:30,700  20060  Watching for file changes with StatReloader
+INFO 2023-11-22 06:20:30,722  14744  Watching for file changes with StatReloader
+INFO 2023-11-22 06:20:30,775  4272  Watching for file changes with StatReloader
+INFO 2023-11-22 06:20:30,787  13648  Watching for file changes with StatReloader
+INFO 2023-11-22 06:20:30,975  1308  Watching for file changes with StatReloader
+INFO 2023-11-22 06:20:31,021  13936  Watching for file changes with StatReloader
+INFO 2023-11-22 06:20:31,086  6716  Watching for file changes with StatReloader
+INFO 2023-11-22 06:20:31,262  7992  Watching for file changes with StatReloader
+WARNING 2023-11-22 06:20:34,057  14744  Method Not Allowed (GET): /
+INFO 2023-11-22 06:21:27,578  4272  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:21:27,583  13648  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:21:27,574  14744  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:21:27,537  6716  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:21:27,563  1308  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:21:27,610  20060  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:21:27,623  13936  C:\Users\Lee\PycharmProjects\daraja1_apis\main\views.py changed, reloading.
+INFO 2023-11-22 06:21:31,333  20260  Watching for file changes with StatReloader
+INFO 2023-11-22 06:21:31,338  2204  Watching for file changes with StatReloader
+INFO 2023-11-22 06:21:31,354  2352  Watching for file changes with StatReloader
+INFO 2023-11-22 06:21:31,564  4972  Watching for file changes with StatReloader
+INFO 2023-11-22 06:21:31,643  15952  Watching for file changes with StatReloader
+INFO 2023-11-22 06:21:31,680  17696  Watching for file changes with StatReloader
+INFO 2023-11-22 06:21:31,781  19720  Watching for file changes with StatReloader
+INFO 2023-11-22 06:21:32,261  16728  Watching for file changes with StatReloader
